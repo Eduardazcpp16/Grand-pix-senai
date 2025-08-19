@@ -1,6 +1,6 @@
 Projeto Grand Prix SENAI – Arduino
 
-Projeto feito no curso Técnico em Eletrônica do SENAI. Ele usa 14 LEDs ligados ao Arduino para mostrar a frase "GRAND PRIX SENAI" com efeitos de luz.
+Projeto feito no curso Técnico em Eletrônica do SENAI. É usado 14 LEDs ligados ao Arduino para mostrar a frase "GRAND PRIX SENAI" com efeitos de luz.
 
 O que o projeto faz
 
