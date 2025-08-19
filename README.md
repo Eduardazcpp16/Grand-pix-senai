@@ -13,7 +13,7 @@ Materiais
 
 - 1 Arduino UNO
 - 14 LEDs
-- 2 uln 2003A
+- 2 ULN2003A
 - fios flexiveis
 - fita led azul
 - fita led laranja 
